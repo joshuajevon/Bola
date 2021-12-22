@@ -1,0 +1,24 @@
+/* #view a{
+    text-decoration: none;
+    color: black;
+} */
+
+#tulisan{
+    color: white;
+    padding-left: 2%;
+    background-color: rgb(37, 37, 37);
+}
+
+#formulir{
+    padding-top: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#add{
+    padding-left: 2%;
+}
+
+#button{
+    padding-left: 90%;;
+}
